@@ -1,7 +1,7 @@
 ## Utils</br>
-Stratified K Fold</br>
 Label Encoder</br>
-One hot encoder</br></br>
+One hot encoder</br>
+Stratified K Fold</br></br>
 
 ## xgboost</br>
 Simple xgboost</br>
