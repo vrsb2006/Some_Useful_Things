@@ -1,4 +1,4 @@
-## Utils</br>
+## utils</br>
 Label Encoder</br>
 One hot encoder</br>
 Stratified K Fold</br></br>
